@@ -14,7 +14,3 @@ This project provides a clean and well-documented **Java implementation of tree 
 - 🧠 Height and Depth calculations
 - 🧪 Sample driver class for testing
 
----
-
-## 📁 Project Structure
-
